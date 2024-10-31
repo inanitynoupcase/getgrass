@@ -21,7 +21,7 @@ Create a username, enter your email, and set a password.
 #### 3. Earn: Keep Grass Running in the Background to Earn
 
 ## What is Getgrass.io Auto Farm? <a name="paragraph2"></a>
-If you know you know 👀👀👀
+If you know, you know !
 ## How to using Getgrass Auto Farm? <a name="paragraph3"></a>
 1. Fill in your **account.txt** format `email:password` (make sure you can login on dashboard)
 2. Fill in **proxy.txt** using the format: `protocol://user:pass@ip:port`. (I recommend using Residential proxy. Please check live proxy first before fill in)
