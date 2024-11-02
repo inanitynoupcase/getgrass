@@ -25,6 +25,6 @@ If you know, you know !
 ## How to using Getgrass Auto Farm? <a name="paragraph3"></a>
 1. Fill in your **account.txt** format `email:password` (make sure you can login on dashboard)
 2. Fill in **proxy.txt** using the format: `protocol://user:pass@ip:port`. (I recommend using Residential proxy. Please check live proxy first before fill in)
-7. Runing **grass.exe** and enjoy !
+7. Run **grass.exe** and enjoy !
 ## Note: <a name="paragraph4"></a>
 DYOR. Thanks !
