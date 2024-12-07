@@ -2,7 +2,7 @@
 1. [What is Grass and How Does it Work ?](#introduction)
 2. [How to earn in Grass? ](#paragraph1)
 4. [What is Getgrass.io Auto Farm?](#paragraph2)
-5. [How to using Nodepay Farming Tool?](#paragraph3)
+5. [How to using GetGrass.io Farming Tool?](#paragraph3)
 6. [Note](#paragraph4)
 
 ## What is Grass and How Does it Work ?<a name="introduction"></a>
