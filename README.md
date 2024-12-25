@@ -1,3 +1,4 @@
+# Outdate
 # Table of contents
 1. [What is Grass and How Does it Work ?](#introduction)
 2. [How to earn in Grass? ](#paragraph1)
